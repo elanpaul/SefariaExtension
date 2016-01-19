@@ -1,0 +1,44 @@
+body {
+    height: 300px;
+    width: 700px;
+    background-color: #67367d;
+}
+
+ul {
+    float: left;
+    list-style-type: none;
+}
+
+li {
+    width: 250px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.sefaria-button {
+    background-color: #1eafd5;
+    border-radius: 8px;
+    padding: 8px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+img {
+    float: right;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+#title {
+    margin: auto;
+    float: none;
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+#main-list {
+    width: 900px;
+    margin: auto;
+}
